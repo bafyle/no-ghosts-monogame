@@ -1,0 +1,65 @@
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.exe
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.deps.json
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.runtimeconfig.json
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\ref\No Ghosts.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.pdb
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.csproj.AssemblyReference.cache
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.AssemblyInfoInputs.cache
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.AssemblyInfo.cs
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.csproj.CoreCompileInputs.cache
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.csproj.CopyComplete
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\ref\No Ghosts.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.pdb
+E:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.genruntimeconfig.cache
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\Textures\EnemyTextures\OrangeEnemy.xnb
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\Textures\BulletTextures\PlayerBullet.xnb
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\Textures\PlayerTextures\GrayPlayerAlive.xnb
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\Textures\PlayerTextures\GrayPlayerDead.xnb
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\MonoGame.Extended.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\MonoGame.Extended.Collisions.dll
+E:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\Textures\BulletTextures\PlayerBullet.xnb
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\Textures\EnemyTextures\OrangeEnemy.xnb
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\Textures\PlayerTextures\GrayPlayerAlive.xnb
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\Textures\PlayerTextures\GrayPlayerDead.xnb
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.exe
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.deps.json
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.runtimeconfig.json
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\ref\No Ghosts.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\No Ghosts.pdb
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\MonoGame.Extended.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\MonoGame.Extended.Collisions.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\MonoGame.Framework.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.csproj.AssemblyReference.cache
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.AssemblyInfoInputs.cache
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.AssemblyInfo.cs
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.csproj.CoreCompileInputs.cache
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.csproj.CopyComplete
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\ref\No Ghosts.dll
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.pdb
+F:\CS\Dotnet projects\games projects\No Ghosts\obj\Debug\net6.0\No Ghosts.genruntimeconfig.cache
+F:\CS\Dotnet projects\games projects\No Ghosts\bin\Debug\net6.0\Content\fonts\Main Font.xnb
