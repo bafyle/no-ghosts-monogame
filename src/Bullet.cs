@@ -10,7 +10,7 @@ namespace No_Ghosts
         {
             this.position = position;
             this.attackPoint = attackPoint;
-            this.speed = 300;
+            this.speed = 500;
             this.collisionBehavior = new CollisionBehavior();
         }
         
